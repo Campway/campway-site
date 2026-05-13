@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="#2a2a2a" rx="32"/>
+  <path d="M64 100h128v72H64z" fill="#E88A30"/>
+  <rect x="64" y="88" width="128" height="12" fill="#E88A30"/>
+  <path d="M64 88V76c0-4 3-8 8-8h112c5 0 8 4 8 8v12" fill="#E88A30"/>
+  <rect x="72" y="172" width="20" height="16" rx="4" fill="#E88A30"/>
+  <rect x="164" y="172" width="20" height="16" rx="4" fill="#E88A30"/>
+  <circle cx="84" cy="180" r="6" fill="#2a2a2a"/>
+  <circle cx="172" cy="180" r="6" fill="#2a2a2a"/>
+  <text x="96" y="150" font-family="Arial, sans-serif" font-size="56" font-weight="bold" fill="#2a2a2a">CC</text>
+</svg>
